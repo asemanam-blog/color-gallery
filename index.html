@@ -150,8 +150,8 @@
                             <div class="comment-send">
                               <!--row-first--><!--{{{-->
                                 <div class="comment-send-first-send">
-                                  <img src="(*comment_avatar*)" alt="(*comment_fullname*)">
-                                  <a href="(*comment_website*)" target="_blank" style="background-color: white;padding: 0 1em;">
+                                  <a href="(*comment_website*)" target="_blank">
+                                    <img src="(*comment_avatar*)" alt="(*comment_fullname*)" style="margin: 0 1em; margin-right: 0;border: 3px solid #e056fd;">
                                     (*comment_fullname*)
                                   </a>
                                 </div>
@@ -224,8 +224,8 @@
                             <div class="comment-send">
                               <!--row-first--><!--{{{-->
                                 <div class="comment-send-first-send">
-                                  <img src="(*comment_avatar*)" alt="(*comment_fullname*)">
-                                  <a href="(*comment_website*)" target="_blank" style="background-color: white;padding: 0 1em;">
+                                  <a href="(*comment_website*)" target="_blank">
+                                    <img src="(*comment_avatar*)" alt="(*comment_fullname*)" style="margin: 0 1em; margin-right: 0;border: 3px solid #e056fd;">
                                     (*comment_fullname*)
                                   </a>
                                 </div>
@@ -374,6 +374,13 @@
             <!--recent_posts code--><!--}}}-->
           </div>
           <div class="b-right">
+          <!--followBox--><!--{{{-->
+            <check:if follow_box>
+              <div class="bayan-follow front-image-list" style="margin-bottom: 10px;">
+                (*follow_box*)
+              </div>
+            </check:if>
+          <!--followBox--><!--}}}-->
             <!--Tags--><!--{{{-->
               <box:tag_cloud>
                 <div class="des-tag">برچسب‌ها</div>

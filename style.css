@@ -449,7 +449,7 @@ h1 {
   }
 
   .comment-send {
-    border: 3px solid #e056fd;
+    /*border: 3px solid #e056fd;*/
     margin-bottom: 10px;
     box-sizing: border-box;
     background: #fff;
@@ -489,6 +489,28 @@ h1 {
   p {
     text-align: justify;
     margin-bottom: .8rem;
+  }
+
+  #followThis {
+    border-radius: 2000px;
+    font-weight: bold;
+    background-color: pink;
+    color: black !important;
+  }
+
+  .followBx {
+      background-color: white;
+      border: 3px solid pink;
+  }
+
+  .followThis.followed, .followThis {
+      font-family: shabnam, sans-serif;
+      font-size: 12px;
+      background-color: #e84393;
+  }
+
+  .followThis.followed {
+    background-color: #f66;
   }
 
   /*comment-form*//*{{{*/
@@ -556,7 +578,7 @@ h1 {
       padding: .25rem .4rem;
       position: relative;
       transition: background .2s, border .2s, box-shadow .2s, color .2s;
-      width: 100%;
+      width: 98%;
     }
 
     .formField2 .fldcontent label {
