@@ -664,5 +664,11 @@ h1 {
     .box-pic-one, .box-pic-two, .box-pic-three, .box-pic-four, .box-pic-five, .box-pic-six {
       margin: 1em !important;
     }
+
+  .mimr-comment {
+      margin-left: 5px;
+      margin-right: 5px;
+  }
+
   }
 /*media max 520*//*}}}*/
