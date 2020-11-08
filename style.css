@@ -17,7 +17,7 @@ body {
   word-wrap: break-word;
   font-family: sahel, tahoma;
   background: #191919;
-  font-size: 9pt;
+  font-size: 16px;
   background: #eff0f1
     url(http://s8.picofile.com/file/8348107218/backgorund_black_theme.png);
   margin: 0;
@@ -202,7 +202,7 @@ h1 {
 .title {
   text-align: right;
   font-weight: 700;
-  font-size: 10pt;
+  font-size: 1.3em;
   background: pink;
 }
 .text {
