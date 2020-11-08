@@ -1,3 +1,12 @@
+@font-face {
+  font-family: 'sahel';
+  src: url("https://bayanbox.ir/download/810013713969561633/Sahel-Light-FD.woff") format("woff");
+  font-weight: normal; }
+@font-face {
+  font-family: 'sahel';
+  src: url("https://bayanbox.ir/download/1303132113163806930/Sahel-Bold-FD.woff") format("woff");
+  font-weight: bold; }
+
 a,
 body {
   color: #000;
@@ -6,7 +15,7 @@ body {
   overflow-x: hidden;
   line-height: 1.9;
   word-wrap: break-word;
-  font-family: shabnam, tahoma;
+  font-family: sahel, tahoma;
   background: #191919;
   font-size: 9pt;
   background: #eff0f1
@@ -504,7 +513,7 @@ h1 {
   }
 
   .followThis.followed, .followThis {
-      font-family: shabnam, sans-serif;
+      font-family: sahel, sans-serif;
       font-size: 12px;
       background-color: #e84393;
   }
