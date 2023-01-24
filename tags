@@ -1,0 +1,162 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/mimr9/projects/asemanam.blog.ir/blacktheme/019/color-gallery/color-gallery/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+#bComFormElem	style.css	/^  #bComFormElem {$/;"	i
+#captchaInput	style.css	/^    #captchaInput {$/;"	i
+#followThis	style.css	/^  #followThis {$/;"	i
+(*blog_title*)	index.html	/^              <h1><a href="(*blog_link*)" class="color">(*blog_title*)<\/a><\/h1>$/;"	h
+.b-archive	style.css	/^.b-archive {$/;"	c
+.b-archive	style.css	/^.b-archive,$/;"	c
+.b-author	style.css	/^.b-author {$/;"	c
+.b-author	style.css	/^.b-author,$/;"	c
+.b-blogtitle	style.css	/^.b-blogtitle {$/;"	c
+.b-categories	style.css	/^.b-categories {$/;"	c
+.b-code	style.css	/^.b-code {$/;"	c
+.b-code	style.css	/^.b-code,$/;"	c
+.b-daily	style.css	/^.b-daily {$/;"	c
+.b-daily	style.css	/^.b-daily,$/;"	c
+.b-enter	style.css	/^.b-enter {$/;"	c
+.b-left	style.css	/^    .b-left,$/;"	c
+.b-left	style.css	/^.b-left {$/;"	c
+.b-left	style.css	/^.b-left,$/;"	c
+.b-link	style.css	/^    .b-link {$/;"	c
+.b-link	style.css	/^.b-link {$/;"	c
+.b-menu	style.css	/^.b-menu {$/;"	c
+.b-menu	style.css	/^.b-menu,$/;"	c
+.b-most-commented-posts	style.css	/^  .b-most-commented-posts {$/;"	c
+.b-most-visited-posts	style.css	/^  .b-most-visited-posts {$/;"	c
+.b-popular-posts	style.css	/^  .b-popular-posts {$/;"	c
+.b-post	style.css	/^    .b-post,$/;"	c
+.b-post	style.css	/^.b-post {$/;"	c
+.b-post	style.css	/^.b-post,$/;"	c
+.b-profile	style.css	/^.b-profile {$/;"	c
+.b-profile	style.css	/^.b-profile,$/;"	c
+.b-recent-posts	style.css	/^  .b-recent-posts {$/;"	c
+.b-right	style.css	/^    .b-right {$/;"	c
+.b-right	style.css	/^.b-right {$/;"	c
+.b-tag	style.css	/^.b-tag {$/;"	c
+.b-tag	style.css	/^.b-tag,$/;"	c
+.b-title	style.css	/^.b-title {$/;"	c
+.bottom	style.css	/^.bottom {$/;"	c
+.box-pic-five	style.css	/^    .box-pic-five,$/;"	c
+.box-pic-five	style.css	/^    .box-pic-one, .box-pic-two, .box-pic-three, .box-pic-four, .box-pic-five, .box-pic-six {$/;"	c
+.box-pic-five	style.css	/^  .box-pic-five {$/;"	c
+.box-pic-five	style.css	/^  .box-pic-five,$/;"	c
+.box-pic-five	style.css	/^  .box-pic-one, .box-pic-two, .box-pic-three, .box-pic-four, .box-pic-five, .box-pic-six {$/;"	c
+.box-pic-four	style.css	/^    .box-pic-four,$/;"	c
+.box-pic-four	style.css	/^    .box-pic-one, .box-pic-two, .box-pic-three, .box-pic-four, .box-pic-five, .box-pic-six {$/;"	c
+.box-pic-four	style.css	/^  .box-pic-four {$/;"	c
+.box-pic-four	style.css	/^  .box-pic-one, .box-pic-two, .box-pic-three, .box-pic-four, .box-pic-five, .box-pic-six {$/;"	c
+.box-pic-one	style.css	/^    .box-pic-one, .box-pic-two, .box-pic-three, .box-pic-four, .box-pic-five, .box-pic-six {$/;"	c
+.box-pic-one	style.css	/^    .box-pic-one,$/;"	c
+.box-pic-one	style.css	/^  .box-pic-one {$/;"	c
+.box-pic-one	style.css	/^  .box-pic-one, .box-pic-two, .box-pic-three, .box-pic-four, .box-pic-five, .box-pic-six {$/;"	c
+.box-pic-six	style.css	/^    .box-pic-one, .box-pic-two, .box-pic-three, .box-pic-four, .box-pic-five, .box-pic-six {$/;"	c
+.box-pic-six	style.css	/^    .box-pic-six,$/;"	c
+.box-pic-six	style.css	/^  .box-pic-one, .box-pic-two, .box-pic-three, .box-pic-four, .box-pic-five, .box-pic-six {$/;"	c
+.box-pic-six	style.css	/^  .box-pic-six {$/;"	c
+.box-pic-three	style.css	/^    .box-pic-one, .box-pic-two, .box-pic-three, .box-pic-four, .box-pic-five, .box-pic-six {$/;"	c
+.box-pic-three	style.css	/^    .box-pic-three,$/;"	c
+.box-pic-three	style.css	/^  .box-pic-one, .box-pic-two, .box-pic-three, .box-pic-four, .box-pic-five, .box-pic-six {$/;"	c
+.box-pic-three	style.css	/^  .box-pic-three {$/;"	c
+.box-pic-three	style.css	/^  .box-pic-three,$/;"	c
+.box-pic-two	style.css	/^    .box-pic-one, .box-pic-two, .box-pic-three, .box-pic-four, .box-pic-five, .box-pic-six {$/;"	c
+.box-pic-two	style.css	/^    .box-pic-two {$/;"	c
+.box-pic-two	style.css	/^  .box-pic-one, .box-pic-two, .box-pic-three, .box-pic-four, .box-pic-five, .box-pic-six {$/;"	c
+.box-pic-two	style.css	/^  .box-pic-two {$/;"	c
+.box-picture	style.css	/^.box-picture,$/;"	c
+.clear	style.css	/^.clear {$/;"	c
+.color	style.css	/^.color {$/;"	c
+.color:hover	style.css	/^.color:hover,$/;"	c
+.comment-send	style.css	/^  .comment-send {$/;"	c
+.comment-send-first	style.css	/^  .comment-send-first {$/;"	c
+.comment-send-first-send img	style.css	/^  .comment-send-first-send img {$/;"	s
+.comment-send-second	style.css	/^  .comment-send-second {$/;"	c
+.comment-send-third	style.css	/^  .comment-send-third {$/;"	c
+.copyright	style.css	/^  .copyright {$/;"	c
+.des-archive	style.css	/^.des-archive {$/;"	c
+.des-archive	style.css	/^.des-archive,$/;"	c
+.des-author	style.css	/^.des-author {$/;"	c
+.des-author	style.css	/^.des-author,$/;"	c
+.des-categories	style.css	/^.des-categories {$/;"	c
+.des-code	style.css	/^.des-code {$/;"	c
+.des-daily	style.css	/^.des-daily {$/;"	c
+.des-menu	style.css	/^.des-menu {$/;"	c
+.des-most-commented-posts	style.css	/^  .des-most-commented-posts {$/;"	c
+.des-most-visited-posts	style.css	/^  .des-most-visited-posts {$/;"	c
+.des-popular-posts	style.css	/^  .des-popular-posts {$/;"	c
+.des-profile	style.css	/^.des-profile {$/;"	c
+.des-recent-posts	style.css	/^  .des-recent-posts {$/;"	c
+.des-tag	style.css	/^.des-tag {$/;"	c
+.description	style.css	/^.description {$/;"	c
+.description	style.css	/^.description,$/;"	c
+.detail	style.css	/^.detail {$/;"	c
+.detail	style.css	/^.detail,$/;"	c
+.fldcontent input[readonly]	style.css	/^    .form-input[readonly], .inputFix input[readonly][type="text"], .fldcontent input[readonly][t/;"	s
+.fldcontent input[type="text"]	style.css	/^    .form-input, .inputFix input[type="text"], .fldcontent input[type="text"], .fldcontent texta/;"	s
+.fldcontent select	style.css	/^    .form-select, .fldcontent select {$/;"	s
+.fldcontent select:not([multiple] ):not([size] )	style.css	/^    .form-select:not([multiple]):not([size]), .fldcontent select:not([multiple]):not([size]) {$/;"	s
+.fldcontent textarea	style.css	/^    .fldcontent textarea {$/;"	s
+.fldcontent textarea	style.css	/^    .form-input, .inputFix input[type="text"], .fldcontent input[type="text"], .fldcontent texta/;"	s
+.fldcontent textarea[readonly]	style.css	/^    .form-input[readonly], .inputFix input[readonly][type="text"], .fldcontent input[readonly][t/;"	s
+.followBx	style.css	/^  .followBx {$/;"	c
+.followThis	style.css	/^  .followThis.followed, .followThis {$/;"	c
+.followThis.followed	style.css	/^  .followThis.followed {$/;"	c
+.followThis.followed	style.css	/^  .followThis.followed, .followThis {$/;"	c
+.form-input	style.css	/^    .form-input, .inputFix input[type="text"], .fldcontent input[type="text"], .fldcontent texta/;"	c
+.form-input[readonly]	style.css	/^    .form-input[readonly], .inputFix input[readonly][type="text"], .fldcontent input[readonly][t/;"	c
+.form-select	style.css	/^    .form-select, .fldcontent select {$/;"	c
+.form-select:not([multiple] ):not([size] )	style.css	/^    .form-select:not([multiple]):not([size]), .fldcontent select:not([multiple]):not([size]) {$/;"	s
+.formField2	style.css	/^    .formField2 {$/;"	c
+.formField2 .fldcontent	style.css	/^    .formField2 .fldcontent {$/;"	c
+.formField2 .fldcontent label	style.css	/^    .formField2 .fldcontent label {$/;"	s
+.formField2 label	style.css	/^    .formField2 label {$/;"	s
+.header	style.css	/^.header {$/;"	c
+.inputFix input[readonly]	style.css	/^    .form-input[readonly], .inputFix input[readonly][type="text"], .fldcontent input[readonly][t/;"	s
+.inputFix input[type="text"]	style.css	/^    .form-input, .inputFix input[type="text"], .fldcontent input[type="text"], .fldcontent texta/;"	s
+.left	style.css	/^    .left,$/;"	c
+.left	style.css	/^.left {$/;"	c
+.left	style.css	/^.left,$/;"	c
+.lin	style.css	/^    .lin {$/;"	c
+.lin	style.css	/^.lin {$/;"	c
+.main	style.css	/^    .main,$/;"	c
+.main	style.css	/^.main {$/;"	c
+.message-err	style.css	/^    .message-err {$/;"	c
+.message-err	style.css	/^    .message-success, .message-wrn, .message-err {$/;"	c
+.message-success	style.css	/^    .message-success {$/;"	c
+.message-success	style.css	/^    .message-success, .message-wrn, .message-err {$/;"	c
+.message-wrn	style.css	/^    .message-success, .message-wrn, .message-err {$/;"	c
+.message-wrn	style.css	/^    .message-wrn {$/;"	c
+.mimr-comment	style.css	/^  .mimr-comment {$/;"	c
+.mimr-readmore	style.css	/^  .mimr-readmore {$/;"	c
+.new	style.css	/^.new {$/;"	c
+.old	style.css	/^.old {$/;"	c
+.on	style.css	/^.on {$/;"	c
+.on	style.css	/^.on,$/;"	c
+.rated .rate-up svg	style.css	/^  .rated .rate-up svg {$/;"	s
+.right	style.css	/^    .right {$/;"	c
+.right	style.css	/^.right {$/;"	c
+.text	style.css	/^.text {$/;"	c
+.title	style.css	/^    .title {$/;"	c
+.title	style.css	/^.title {$/;"	c
+a	style.css	/^a {$/;"	s
+a	style.css	/^a,$/;"	s
+a:hover	style.css	/^a:hover {$/;"	s
+body	style.css	/^body {$/;"	s
+color-gallery	README.md	/^# color-gallery/;"	c
+comment-(*comment_id*)	index.html	/^                            <a name="comment-(*comment_id*)"><\/a>$/;"	a
+comments	index.html	/^              <a name="comments"><\/a>$/;"	a
+h1	style.css	/^h1 {$/;"	s
+img	style.css	/^  img {$/;"	s
+img	style.css	/^img {$/;"	s
+p	style.css	/^  p {$/;"	s
+send_comment	index.html	/^                    <a name="send_comment"><\/a>$/;"	a
+type	style.css	/^    .form-input[readonly], .inputFix input[readonly][type="text"], .fldcontent input[readonly][t/;"	s
