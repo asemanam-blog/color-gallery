@@ -200,8 +200,9 @@
                   </check:if>
                     <!--comment-send--><!--{{{-->
                     <a name="send_comment"></a>
-                    <check:if post_has_send_comment>
+                    <check:if comment_add_form>
                       (*comment_add_form*)
+                    </check:if>
                     <!--comment-list--><!--}}}-->
                   <!--comment-section--><!--}}}-->
             </box:post_detail>
@@ -271,8 +272,9 @@
                   </check:if>
                     <!--comment-send--><!--{{{-->
                     <a name="send_comment"></a>
-                    <check:if page_has_send_comment>
+                    <check:if comment_add_form>
                       (*comment_add_form*)
+                    </check:if>
                     <!--comment-list--><!--}}}-->
                   <!--comment-section--><!--}}}-->
             </box:page_detail>
